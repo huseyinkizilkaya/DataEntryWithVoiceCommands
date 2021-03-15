@@ -1,0 +1,17 @@
+C:\Users\kizil\source\repos\DataEntryWithVoiceCommands\DataEntryWithVoiceCommands\bin\Debug\DataEntryWithVoiceCommands.exe.config
+C:\Users\kizil\source\repos\DataEntryWithVoiceCommands\DataEntryWithVoiceCommands\bin\Debug\DataEntryWithVoiceCommands.exe
+C:\Users\kizil\source\repos\DataEntryWithVoiceCommands\DataEntryWithVoiceCommands\bin\Debug\DataEntryWithVoiceCommands.pdb
+C:\Users\kizil\source\repos\DataEntryWithVoiceCommands\DataEntryWithVoiceCommands\obj\Debug\DataEntryWithVoiceCommands.csprojAssemblyReference.cache
+C:\Users\kizil\source\repos\DataEntryWithVoiceCommands\DataEntryWithVoiceCommands\obj\Debug\DataEntryWithVoiceCommands.Form1.resources
+C:\Users\kizil\source\repos\DataEntryWithVoiceCommands\DataEntryWithVoiceCommands\obj\Debug\DataEntryWithVoiceCommands.Properties.Resources.resources
+C:\Users\kizil\source\repos\DataEntryWithVoiceCommands\DataEntryWithVoiceCommands\obj\Debug\DataEntryWithVoiceCommands.csproj.GenerateResource.cache
+C:\Users\kizil\source\repos\DataEntryWithVoiceCommands\DataEntryWithVoiceCommands\obj\Debug\DataEntryWithVoiceCommands.csproj.CoreCompileInputs.cache
+C:\Users\kizil\source\repos\DataEntryWithVoiceCommands\DataEntryWithVoiceCommands\obj\Debug\DataEntryWithVoiceCommands.exe
+C:\Users\kizil\source\repos\DataEntryWithVoiceCommands\DataEntryWithVoiceCommands\obj\Debug\DataEntryWithVoiceCommands.pdb
+C:\Users\kizil\source\repos\DataEntryWithVoiceCommands\DataEntryWithVoiceCommands\obj\Debug\Interop.SpeechLib.dll
+C:\Users\kizil\source\repos\DataEntryWithVoiceCommands\DataEntryWithVoiceCommands\obj\Debug\DataEntryWithVoiceCommands.csproj.ResolveComReference.cache
+C:\Users\kizil\source\repos\DataEntryWithVoiceCommands\DataEntryWithVoiceCommands\bin\Debug\EntityFramework.dll
+C:\Users\kizil\source\repos\DataEntryWithVoiceCommands\DataEntryWithVoiceCommands\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kizil\source\repos\DataEntryWithVoiceCommands\DataEntryWithVoiceCommands\bin\Debug\EntityFramework.xml
+C:\Users\kizil\source\repos\DataEntryWithVoiceCommands\DataEntryWithVoiceCommands\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kizil\source\repos\DataEntryWithVoiceCommands\DataEntryWithVoiceCommands\obj\Debug\DataEntryWithVoiceCommands.csproj.CopyComplete
